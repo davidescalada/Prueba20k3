@@ -2,3 +2,4 @@ Vida: 1000
 Daño: 444
 Critico: 888
 Velocidad: 50
+Habilidad Golpear
